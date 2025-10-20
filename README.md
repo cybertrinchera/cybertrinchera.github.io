@@ -1,87 +1,48 @@
 ---
-title: "About"
+title: "Sobre mí"
 permalink: "/about/"
 layout: page
 ---
 
-## Github Pages
+# Sobre mí
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Hola, soy **Pedro** (la mayoría me conoce como **srbleu** o **cybertrinchera**). Llevo cerca de **5 años trabajando en pentesting**, y ahora estoy haciendo una pequeña pausa para decicarme a la investigación con un máster en sistemas. Este blog es mi trinchera: un espacio para documentar experimentos, writeups y reflexiones técnicas desde el frente.
 
-## Features
+Vereis que cierro todo los artículos con la siguientea cita: 
 
- - dark mode
- - [KaTeX](https://katex.org) included
- - no external ressources
- - optional sidebar
- - archive page
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+> **Defend Forward.**
 
-## Installation
+La primera vez que la lei vi que resuena mucho con mi filosofía: defenderse con mendatalidad ofensiva, adelantarse a la amenaza mermando la capacidad operativa del adversario.
 
-To run locally [install Ruby](https://www.ruby-lang.org/en/documentation/installation/) and then run:
+## Perfil técnico
 
-```
-git clone https://github.com/niklasbuschmann/contrast.git
-cd contrast
-gem install bundler jekyll jekyll-feed
-bundle exec jekyll serve
-```
+Mi trabajo siempre ha girado en torno a **Linux** y **aplicaciones web**, y cuento además con experiencia práctica en hacking de **protocolos de red**, seguridad en **Android**, ataques en **Active Directory** y **reversing**. A futuro quiero profundizar más en **game hacking** y **reversing avanzado**. En el blog encontrarás desde pequeños experimentos y técnicas LOTL hasta análisis de vulnerabilidades y writeups detallados.
 
-## Config
+## Hobbies y off‑topic
 
-Your `_config.yml` could for example look like this:
+No todo en la vida es informática e investigación, algunos de mis hobbies son: 
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+* **Puzzles** tipo Hanayama, probando hasta el último tornillo.
+* Videojuegos de puzzles (actualmente obsesionado con **Blue Prince**),
+* **Manga**/Novelas Gráficas. 
+* Explorar el mundo en busca de **geocaches**.
 
-# Layout
+## ¿Qué encontrarás aquí?
 
-show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+* Notas de **research** y experimentos prácticos (LOTL, evasión Linux).
+* **Writeups** y análisis de retos (HTB y algunos retirados).
+* Artículos sobre vulnerabilidades descubiertas en **VDP** o reportadas como **CVE**.
+* De vez en cuando, algo mas personal sobre alguno de mis hobbies.
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+## Únete a la trinchera
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+Si te interesa cualquiera de estos temas, toma posición y cúbreme el flanco.
 
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+> Defend Forward.
 
-comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
+### Enlaces
 
-plugins:
- - jekyll-feed
-```
+* Hack The Box — `https://app.hackthebox.com/profile/1385582`
+* GitHub — `https://github.com/cybertrinchera`
+* LinkedIn — `https://www.linkedin.com/in/pedrojosenavasperez/`
 
-## Math
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter. [Jektex](https://github.com/yagarea/jektex) can be used to pre-render math on the server side.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://github.com/user-attachments/assets/8f0ef4bc-f079-495e-8c31-5867b8ccd25c)
-
-![screenshot](https://github.com/user-attachments/assets/e5e6d189-3251-41f4-baba-ff42be65f666)
-
-![screenshot](https://github.com/user-attachments/assets/d31879ae-7113-42be-b580-1e96a2aedd29)
-
-![screenshot](https://github.com/user-attachments/assets/d524ce47-8d8c-473e-afc6-79b34fae63e8)
