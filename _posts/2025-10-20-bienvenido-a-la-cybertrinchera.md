@@ -12,7 +12,7 @@ En este blog quiero compartir proyectos de **investigación**, **writeups** y al
 
 
 #### Investigación 
-En la parte de investigación, actualmente ando enfocado en temas de **Living off the Land** (LOTL) y **evasión en entornos Linux**, aunque también iré subiendo **reportes** VDP y **análisis de vulnerabilidades** (CVE) que haya tenido oportunidad de investigar. No pretendo que todo sea formal: algunos artículos serán pequeños experimentos o notas rápidas que quizá te inspiren a probar algo similae.
+En la parte de investigación, actualmente ando enfocado en temas de **IoT/ICS** y **evasión en entornos Linux**, aunque también iré subiendo **reportes** VDP y **análisis de vulnerabilidades** (CVE) que haya tenido oportunidad de investigar. No pretendo que todo sea formal: algunos artículos serán pequeños experimentos o notas rápidas que quizá te inspiren a probar algo similae.
 
 #### Writeups
 Últimamente, no participo en demasiados CTF fuera de **Hack The Box**, así que los writeups tardarán un poco más en llegar. Sin embargo, iré publicando algunos de retos retirados o especialmente interesantes, sobre todo cuando haga retos con **conceptos que quiera desarrollar más a fondo** como parte de un artículo de researching.

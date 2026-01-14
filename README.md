@@ -16,20 +16,20 @@ La primera vez que la lei vi que resuena mucho con mi filosofía: defenderse con
 
 ## Perfil técnico
 
-Mi trabajo siempre ha girado en torno a **Linux** y **aplicaciones web**, y cuento además con experiencia práctica en hacking de **protocolos de red**, seguridad en **Android**, ataques en **Active Directory** y **reversing**. A futuro quiero profundizar más en **game hacking** y **reversing avanzado**. En el blog encontrarás desde pequeños experimentos y técnicas LOTL hasta análisis de vulnerabilidades y writeups detallados.
+Mi trabajo siempre ha girado en torno a **Linux** y **aplicaciones web**, y cuento además con experiencia práctica en hacking de **protocolos de red**, seguridad en **Android**, ataques en **Active Directory** y **reversing**. A futuro quiero profundizar más en **seguridad en ICS/IoT**, **game hacking** y **reversing**. En el blog encontrarás desde pequeños experimentos y técnicas LOTL hasta análisis de vulnerabilidades y writeups detallados.
 
 ## Hobbies y off‑topic
 
 No todo en la vida es informática e investigación, algunos de mis hobbies son: 
 
-* **Puzzles** tipo Hanayama, probando hasta el último tornillo.
-* Videojuegos de puzzles (actualmente obsesionado con **Blue Prince**),
+* **Puzzles** tipo Hanayama o escape box, probando cosas.
+* Videojuegos de puzzles (actualmente obsesionado con **Blue Prince y Talos Principle**),
 * **Manga**/Novelas Gráficas. 
 * Explorar el mundo en busca de **geocaches**.
 
 ## ¿Qué encontrarás aquí?
 
-* Notas de **research** y experimentos prácticos (LOTL, evasión Linux).
+* Notas de **research** y experimentos prácticos (IoT, LOTL, evasión Linux).
 * **Writeups** y análisis de retos (HTB y algunos retirados).
 * Artículos sobre vulnerabilidades descubiertas en **VDP** o reportadas como **CVE**.
 * De vez en cuando, algo mas personal sobre alguno de mis hobbies.
